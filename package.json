@@ -1,6 +1,6 @@
 {
   "name": "@williamthome/lilicompose",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Higher-order functions that can take functions and its inputs and chain their output together",
   "repository": {
     "type": "git",
